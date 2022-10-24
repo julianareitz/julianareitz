@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julianareitz
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React Redux and React Hooks
-- 💞️ I’m looking to collaborate on HTML, CSS e JS projects
+- 💞️ I’m looking to collaborate on HTML, CSS e JS with React Redux and React Hooks projects
 - 📫 How to reach me On https://www.linkedin.com/in/julianareitz/
 
 <!---
